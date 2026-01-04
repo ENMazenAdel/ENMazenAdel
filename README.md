@@ -66,7 +66,7 @@
 ### 📚 Bookstore Management System
 > Web application for managing bookstore inventory and operations
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://enmazenadel.github.io/bookstoredb/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://enmazenadel.github.io/Book-Store-Store/)
 
 ### 🤖 Machine Learning Projects
 
