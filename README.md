@@ -84,15 +84,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<a href="https://github.com/ENMazenAdel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ENMazenAdel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENMazenAdel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ENMazenAdel&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ENMazenAdel&theme=tokyonight&hide_border=true)](https://github.com/ENMazenAdel)
 
 </div>
 
