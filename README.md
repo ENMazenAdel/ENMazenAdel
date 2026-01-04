@@ -15,9 +15,9 @@
 
 - 🎓 **Computer & Communication Engineering** student at **Alexandria University**
 - 🏊 **Water Polo Coach** with **3+ years** of experience - developing leadership & teamwork skills
-- 💻 Passionate about **Web Development** & **Machine Learning**
+- 💻 Passionate about **Full Stack Web Development** & **Machine Learning**
 - 🌱 Currently expanding my skills in **Full-Stack Development** & **AI/ML**
-- 👯 Open to collaborate on **Open Source Projects**
+- Open to collaborate on **Open Source Projects**
 - 📍 Based in **Alexandria, Egypt**
 - ⚡ Fun fact: I balance between coding algorithms and coaching athletes! 🏆
 
@@ -56,14 +56,28 @@
 ### 🛒 E-Commerce Platform
 > Full-stack e-commerce application with modern UI/UX
 
-### ⌚ Luxury Watches Store
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://enmazenadel.github.io/ECOMMERCE/)
+
+### ⌚ Chronos Luxe - Luxury Watches Store
 > Front-end design for a premium watches e-commerce website
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://enmazenadel.github.io/Chronos-Luxe/)
 
 ### 📚 Bookstore Management System
 > Web application for managing bookstore inventory and operations
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://enmazenadel.github.io/bookstoredb/)
+
 ### 🤖 Machine Learning Projects
-> Various ML projects including data analysis, prediction models, and more (Team collaborations)
+
+> Team collaborations with [@ENMazenAdel](https://github.com/ENMazenAdel), [@MazenBassem](https://github.com/MazenBassem) & [@Nour-Azab](https://github.com/Nour-Azab)
+
+| Project | Description | Repository |
+|---------|-------------|------------|
+| **KNN Classifier** | K-Nearest Neighbors implementation on telescope data with custom distance calculations | [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Nour-Azab/ML_Lab1) |
+| **Logistic & Softmax Regression** | Neural Networks with Logistic and Softmax Regression implementations | [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/ENMazenAdel/Assignment-2-Logistic-Regression-Softmax-Regression-Neural-Nets) |
+| **Probabilistic Models** | Naive Bayes and Decision Trees implementation | [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Nour-Azab/ML_Lab3) |
+| **Unsupervised Learning** | PCA, Autoencoder, K-Means, and GMM from scratch | [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/ENMazenAdel/Assignment-4-ML) |
 
 ---
 
@@ -88,7 +102,7 @@
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=ENMazenAdel&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ENMazenAdel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
